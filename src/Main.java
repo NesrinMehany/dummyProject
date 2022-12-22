@@ -21,6 +21,9 @@ public class Main {
         c.colour="brown";
         c.age=10;
 
+        Vidya v = new Vidya();
+        v.name = "Vidya";
+
 
 
 
