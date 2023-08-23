@@ -7,6 +7,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 =======
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CatClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CatClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DragonFeature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DragonFeature.java" afterDir="false" />
 >>>>>>> nesreen
     </list>
@@ -55,14 +56,7 @@
 >>>>>>> nesreen
   }
 }</component>
-  <component name="RunManager" selected="Application.CatClass">
-    <configuration name="CatClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CatClass" />
-      <module name="Animals" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Animals" />
@@ -72,7 +66,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CatClass" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
